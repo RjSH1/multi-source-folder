@@ -1,6 +1,6 @@
 templateRepository:
-  gitProvider: deepikaGithub
-  path: deepikasl/old-templates
+  gitProvider: rajGit
+  path: RjSH1/old-templates
   branch: main
   templateFolder: templates/jfrog_name_space/myPipelineTemplate
  
@@ -9,4 +9,4 @@ publishTemplate:
   name: myPipelineTemplate
   version: 1.0.0
   pipelineName: PublishTemplate
-  artifactoryIntegration: deepikaArt
+  artifactoryIntegration: rajArt
