@@ -5,7 +5,7 @@ templateRepository:
   templateFolder: templates/jfrog_name_space/myPipelineTemplate
  
 publishTemplate:
-  namespace: deepikaTemplates
+  namespace: rajTemplates
   name: myPipelineTemplate
   version: 1.0.0
   pipelineName: PublishTemplate
